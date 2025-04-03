@@ -1,6 +1,7 @@
 player1,player1_deck,player2,player2_deck,player1_win,draw
 Nath,Alphamon,KFCBody,Pulsemon,True,False
-Lightning_saix,,ShermanD,Shinegreymon,True,False
+Lightning_Saix,,ShermanD,Shinegreymon,True,False
 Squid,Myotismon,Setting_,,True,False
-Roddish,,Darkbolt200,Galaxy,False,True
-Estradamente,Zephagamon,Saltymango,,False,True
+Roddish,,Darkbolt200,Galaxy,False,False
+Estradamente,Zephagamon,Saltymango,,False,False
+
