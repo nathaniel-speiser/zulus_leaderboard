@@ -179,7 +179,7 @@ def main():
     df_ratings = df_ratings.sort_values('Current Elo', ascending=False)
 
 
-    st.set_page_config(layout="wide", page_title="NBA Elo Ratings")
+    st.set_page_config(layout="wide", page_title="Zulu's Leaderboard")
     st.title('Zulus leaderboard')
     st.header('Leaderboard and match history for Digimon locals at Zulu\'s Board Game Cafe')
     st.write('Just for fun, please don\'t take this too seriously')
